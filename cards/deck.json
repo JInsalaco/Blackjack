@@ -1,0 +1,262 @@
+[
+    {
+        "card": "2 of Hearts",
+        "value": 2,
+        "sprite": ""
+    },
+    {
+        "card": "2 of Diamonds",
+        "value": 2,
+        "sprite": ""
+    },
+    {
+        "card": "2 of Spades",
+        "value": 2,
+        "sprite": ""
+    },
+    {
+        "card": "2 of Clubs",
+        "value": 2,
+        "sprite": ""
+    },
+    {
+        "card": "3 of Hearts",
+        "value": 3,
+        "sprite": ""
+    },
+    {
+        "card": "3 of Diamonds",
+        "value": 3,
+        "sprite": ""
+    },
+    {
+        "card": "3 of Spades",
+        "value": 3,
+        "sprite": ""
+    },
+    {
+        "card": "3 of Clubs",
+        "value": 3,
+        "sprite": ""
+    },
+    {
+        "card": "4 of Hearts",
+        "value": 4,
+        "sprite": ""
+    },
+    {
+        "card": "4 of Diamonds",
+        "value": 4,
+        "sprite": ""
+    },
+    {
+        "card": "4 of Spades",
+        "value": 4,
+        "sprite": ""
+    },
+    {
+        "card": "4 of Clubs",
+        "value": 4,
+        "sprite": ""
+    },
+    {
+        "card": "5 of Hearts",
+        "value": 5,
+        "sprite": ""
+    },
+    {
+        "card": "5 of Diamonds",
+        "value": 5,
+        "sprite": ""
+    },
+    {
+        "card": "5 of Spades",
+        "value": 5,
+        "sprite": ""
+    },
+    {
+        "card": "5 of Clubs",
+        "value": 5,
+        "sprite": ""
+    },
+    {
+        "card": "6 of Hearts",
+        "value": 6,
+        "sprite": ""
+    },
+    {
+        "card": "6 of Diamonds",
+        "value": 6,
+        "sprite": ""
+    },
+    {
+        "card": "6 of Spades",
+        "value": 6,
+        "sprite": ""
+    },
+    {
+        "card": "6 of Clubs",
+        "value": 6,
+        "sprite": ""
+    },
+    {
+        "card": "7 of Hearts",
+        "value": 7,
+        "sprite": ""
+    },
+    {
+        "card": "7 of Diamonds",
+        "value": 7,
+        "sprite": ""
+    },
+    {
+        "card": "7 of Spades",
+        "value": 7,
+        "sprite": ""
+    },
+    {
+        "card": "7 of Clubs",
+        "value": 7,
+        "sprite": ""
+    },
+    {
+        "card": "8 of Hearts",
+        "value": 8,
+        "sprite": ""
+    },
+    {
+        "card": "8 of Diamonds",
+        "value": 8,
+        "sprite": ""
+    },
+    {
+        "card": "8 of Spades",
+        "value": 8,
+        "sprite": ""
+    },
+    {
+        "card": "8 of Clubs",
+        "value": 8,
+        "sprite": ""
+    },
+    {
+        "card": "9 of Hearts",
+        "value": 9,
+        "sprite": ""
+    },
+    {
+        "card": "9 of Diamonds",
+        "value": 9,
+        "sprite": ""
+    },
+    {
+        "card": "9 of Spades",
+        "value": 9,
+        "sprite": ""
+    },
+    {
+        "card": "9 of Clubs",
+        "value": 9,
+        "sprite": ""
+    },
+    {
+        "card": "10 of Hearts",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "10 of Diamonds",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "10 of Spades",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "10 of Clubs",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "J of Hearts",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "J of Diamonds",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "J of Spades",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "J of Clubs",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "Q of Hearts",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "Q of Diamonds",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "Q of Spades",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "Q of Clubs",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "K of Hearts",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "K of Diamonds",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "K of Spades",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "K of Clubs",
+        "value": 10,
+        "sprite": ""
+    },
+    {
+        "card": "A of Hearts",
+        "value": 11,
+        "sprite": ""
+    },
+    {
+        "card": "A of Diamonds",
+        "value": 11,
+        "sprite": ""
+    },
+    {
+        "card": "A of Spades",
+        "value": 11,
+        "sprite": ""
+    },
+    {
+        "card": "A of Clubs",
+        "value": 11,
+        "sprite": ""
+    }
+]
